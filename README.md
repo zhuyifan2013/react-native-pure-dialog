@@ -12,7 +12,7 @@ It is a library to show dialog fullscreen or in custom area with an elegant way
 
 ### Demo:
 
-
+![ios](https://github.com/zhuyifan2013/react-native-pure-dialog/blob/master/images/puredialog-ios.gif) ![android](https://github.com/zhuyifan2013/react-native-pure-dialog/blob/master/images/puredialog-android.gif)
 
 ### Example:
 
