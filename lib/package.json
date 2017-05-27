@@ -1,6 +1,6 @@
 {
   "name": "react-native-pure-dialog",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "description": "A pure js dialog",
   "main": "PureDialog.js",
   "scripts": {
@@ -16,5 +16,9 @@
     "email": "zhu_yifan@me.com",
     "url": "http://zhuyifan.xyz"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zhuyifan2013/react-native-pure-dialog.git"
+  }
 }

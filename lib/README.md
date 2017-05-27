@@ -8,19 +8,15 @@ It is a library to show dialog fullscreen or in custom area with an elegant way
 
 **ALL PR and issues are welcomed, I will reply to you in first time**
 
+
+
 ### Install:
 
 `npm i --save react-native-pure-dialog`
 
-### Demo:
-
-![ios](https://github.com/zhuyifan2013/react-native-pure-dialog/blob/master/images/puredialog-ios.gif) ![android](https://github.com/zhuyifan2013/react-native-pure-dialog/blob/master/images/puredialog-android.gif)
-
 ### Example:
 
 ```javascript
-import PureDialog from 'react-native-pure-dialog'
-
 <View style={{flex: 1, justifyContent: 'center', alignItems: 'center'}}>
                 <TouchableOpacity style={{
                     width: 200,
@@ -51,7 +47,7 @@ import PureDialog from 'react-native-pure-dialog'
                         );
                     }}
                 />
-</View>
+            </View>
 ```
 
 
